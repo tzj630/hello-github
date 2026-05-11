@@ -28,3 +28,7 @@ A branch is a separate line of work where you can make changes without affecting
 ### Pull request
 
 A pull request is a request to merge changes from one branch into another branch.
+
+## Local editing
+
+I cloned this repository to my computer and edited this file locally.
