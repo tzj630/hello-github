@@ -9,3 +9,4 @@ I am learning how to use GitHub.
 - Created a new repository
 - Added a README file
 - Edited a file on GitHub
+- Created a new branch
