@@ -32,3 +32,7 @@ A pull request is a request to merge changes from one branch into another branch
 ## Local editing
 
 I cloned this repository to my computer and edited this file locally.
+
+## Remote editing
+
+I edited this file on GitHub.com and pulled the change to my computer.
