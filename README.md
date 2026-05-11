@@ -10,3 +10,21 @@ I am learning how to use GitHub.
 - Added a README file
 - Edited a file on GitHub
 - Created a new branch
+
+## GitHub concepts
+
+### Repository
+
+A repository is a place where a project and its files are stored.
+
+### Commit
+
+A commit is a saved record of changes in a repository.
+
+### Branch
+
+A branch is a separate line of work where you can make changes without affecting the main branch.
+
+### Pull request
+
+A pull request is a request to merge changes from one branch into another branch.
