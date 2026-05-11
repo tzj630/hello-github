@@ -41,3 +41,9 @@ I edited this file on GitHub.com and pulled the change to my computer.
 ## Desktop branch practice
 
 I created this branch in GitHub Desktop and edited the README in VS Code.
+
+
+
+## Command line practice
+
+I created this branch and committed this change using Git commands.
